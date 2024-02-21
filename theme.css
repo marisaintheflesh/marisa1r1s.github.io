@@ -8,6 +8,10 @@ em,
 	font-style: italic;
 }
 
+.u {
+	text-decoration:underline;
+}
+
 * {
 	box-sizing: border-box;
 }

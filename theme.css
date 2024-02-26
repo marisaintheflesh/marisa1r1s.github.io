@@ -21,7 +21,7 @@ html {
 }
 
 body {
-	margin: 0.5% 0.5% 0.5% 0.5%;
+	margin: 0.75% 0.75% 0.75% 0.75%;
 	padding: 0 0 0 0;
 	border: 0 none;
 	outline: 0 none;
@@ -130,7 +130,7 @@ a:hover {
 }
 
 #skip-to-content {
-	background: #000;
+	background: #181818;
 	margin: 4px 4px 4px 4px;
 	padding: 4px 4px 4px 4px;
 	font-family: monospace;
